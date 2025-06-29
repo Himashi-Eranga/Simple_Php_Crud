@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Insert user Details</h1>
-    <form>
+    <form action="./addDetails.php" method="POST">
         <lable>User Name:</lable>
         <input type="text"></br></br>
         <lable>User Gamil:</lable>
